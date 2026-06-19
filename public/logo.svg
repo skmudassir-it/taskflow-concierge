@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" fill="none">
+  <rect width="400" height="120" rx="16" fill="oklch(0.52 0.18 210)"/>
+  <g transform="translate(28, 28)">
+    <rect x="8" y="4" width="56" height="56" rx="14" fill="white" opacity="0.95"/>
+    <path d="M30 20 L30 36 L20 36 L20 20 Z" fill="oklch(0.52 0.18 210)" opacity="0.3"/>
+    <path d="M42 20 L42 44 L20 44 L20 36 L34 36 L34 28 L42 28 Z" fill="oklch(0.52 0.18 210)"/>
+    <circle cx="48" cy="20" r="5" fill="oklch(0.88 0.14 95)"/>
+    <rect x="17" y="15" width="38" height="2" rx="1" fill="oklch(0.88 0.14 95)"/>
+  </g>
+  <text x="100" y="48" font-family="Geist, system-ui, sans-serif" font-size="28" font-weight="700" fill="white">TaskFlow</text>
+  <text x="100" y="76" font-family="Geist, system-ui, sans-serif" font-size="18" font-weight="400" fill="rgba(255,255,255,0.8)" letter-spacing="4">CONCIERGE</text>
+</svg>
